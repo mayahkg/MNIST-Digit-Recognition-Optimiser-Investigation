@@ -2,6 +2,7 @@
 
 Code is created with reference to the following repositories:
 1) https://github.com/ss-is-master-chief/MNIST-Digit.Recognizer-CNNs/blob/master/MNIST-Hand.Written.Digit.Recognition-CNN.ipynb
+2) https://github.com/LinguoLi/mnist_tutorial/blob/master/pytorch.ipynb 
 
 Use:
 1) Installing Requirements
