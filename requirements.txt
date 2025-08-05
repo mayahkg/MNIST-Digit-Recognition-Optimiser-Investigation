@@ -2,3 +2,5 @@ tensorflow=2.18.1
 numpy
 matplotlib
 torch
+time
+pandas
